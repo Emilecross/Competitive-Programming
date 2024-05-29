@@ -1,0 +1,1 @@
+{"name":"Local: e","url":"/Users/emilex/UNSW-cs/cs4128/anz_2022_3/e.cpp","tests":[{"id":1685516598474,"input":"4 4\n2 3 4 1","output":"4"},{"id":1685516603818,"input":"4 4\n2 1 4 3","output":"2"}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"/Users/emilex/UNSW-cs/cs4128/anz_2022_3/e.cpp","group":"local","local":true}

@@ -1,0 +1,1 @@
+{"name":"Local: 7bag","url":"/Users/emilex/UNSW-cs/cs4128/imc/7bag.cpp","tests":[{"id":1710309812249,"input":"9\nTSJZLIOTL","output":""},{"id":1710309834251,"input":"10\nTTTOJSZSLS","output":""}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"/Users/emilex/UNSW-cs/cs4128/imc/7bag.cpp","group":"local","local":true}
